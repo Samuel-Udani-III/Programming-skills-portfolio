@@ -8,11 +8,11 @@ Write a Python program to display the current date and time.
 
 from datetime import datetime
 
-# datetime object containing current date and time
+# datetime is a part of the python library and it contains current date and time and can be used to show it in the output
 now = datetime.now()
 
 print("now =" , now)
 
-#print the date like this dd/mm/YY H:M:S
+#This prints the time in the H:M:S format when it is outputted
 dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 print("date and time =", dt_string)

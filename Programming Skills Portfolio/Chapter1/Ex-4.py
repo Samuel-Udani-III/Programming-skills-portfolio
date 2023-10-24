@@ -3,7 +3,8 @@ Chapter 1
 Exercise 4
 Write three strings in different variables and print the output as one string.   
 """
-#A variable can start with a letter or underscore either capital or lowercase. Uppercase and Lowercase letters are different variables
+#A variable can start with a letter or underscore either capital or lowercase. Uppercase and Lowercase letters are treated as different variables
+#when used in the program
 Game="SF6"
 Gamer="Samuel"
 _Hardware="PlayStation_5"
