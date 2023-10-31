@@ -10,6 +10,9 @@ def favorite_book(title):
     print(title + " is one of my favorite books.")
 
 favorite_book('One Punch Man')
-#Well, this function is called "favorite\_book". Like before, it has no parameters, and within it is a print statement, with the variable title being added to the string "is one of my favorite books."
+#Well, this function is called "favorite\_book". Like before, it has no parameters, and within it is a print statement, 
+#with the variable title being added to the string "is one of my favorite books."
 
-#When you type in "favorite\_book('The Abstract Wild')", the function runs, and prints to the console, "The Abstract Wild is one of my favorite books." It basically only has two steps to it: get a book title and a print statement. Nothing is really getting stored or referenced here.
+#When you type in "favorite\_book('The Abstract Wild')", the function runs, and prints to the console, 
+#"The Abstract Wild is one of my favorite books." It basically only has two steps to it: get a book title and a print statement. 
+#Nothing is really getting stored or referenced here.

@@ -26,4 +26,7 @@ if 'mango' in favorite_fruits:
 
 #"favorite\_fruits" is a list containing "cherrys, mango, and oranges.
 
-#The code checks whether a specific fruit is in the list, and then if it is, it prints a message to the console. It does this for five different fruits: watermelon, oranges, cherries, grapes, and mango. If your favorite fruit is one of the ones within the list, you'll get a message that says "You really like..." that particular fruit. It's just a simple code checking for specific fruits within a list!
+#The code checks whether a specific fruit is in the list, and then if it is, it prints a message to the console. 
+#It does this for five different fruits: watermelon, oranges, cherries, grapes, and mango. If your favorite fruit 
+#is one of the ones within the list, you'll get a message that says "You really like..." that particular fruit. 
+#It's just a simple code checking for specific fruits within a list!

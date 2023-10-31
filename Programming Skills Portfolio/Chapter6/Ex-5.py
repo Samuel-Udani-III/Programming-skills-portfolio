@@ -26,6 +26,8 @@ print("\n")
 for sandwich in finished_sandwiches:
     print("I made a " + sandwich + " sandwich.")
     
-#Alright, this code basically has the same set-up as the previous code, except this one is about ordering pastrami sandwiches, and will let you know when pastrami is not available by printing "...we're all out of Pastrami today."
+#Alright, this code basically has the same set-up as the previous code, except this one is about ordering pastrami sandwiches, 
+#and will let you know when pastrami is not available by printing "...we're all out of Pastrami today."
 
-#It then loops through the sandwich list once more, removing Pastrami whenever it's mentioned in the list, so it's more flexible than the code before. The second loop is unchanged, and then the third loop still prints the sandwiches, just with Pastrami being replaced by any other existing sandwich in the list.
+#It then loops through the sandwich list once more, removing Pastrami whenever it's mentioned in the list, 
+#so it's more flexible than the code before. The second loop is unchanged, and then the third loop still prints the sandwiches, just with Pastrami being replaced by any other existing sandwich in the list.

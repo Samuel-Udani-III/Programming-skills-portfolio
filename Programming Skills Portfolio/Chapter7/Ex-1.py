@@ -12,6 +12,9 @@ def display_message():
 
 display_message()
 
-#Well, this code is a function called "display\_message" with no parameters. Within this function is a hard-coded string of text: "I'm learning to do loops in python."
+#Well, this code is a function called "display\_message" with no parameters. 
+#Within this function is a hard-coded string of text: "I'm learning to do loops in python."
 
-#This function does very little, as it only displays that statement to the console, and the function name is not really being referenced anywhere else. You just write "display\_message()" anywhere else to display the text. In this case, you can even type "display\_message()" into the console to see the message yourself!
+#This function does very little, as it only displays that statement to the console, 
+#and the function name is not really being referenced anywhere else. You just write "display\_message()" 
+#anywhere else to display the text. In this case, you can even type "display\_message()" into the console to see the message yourself!

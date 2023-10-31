@@ -20,4 +20,8 @@ print("\n")
 for sandwich in finished_sandwiches:
     print("I made a " + sandwich + " sandwich.")
     
-#Sure! This code defines a list called "sandwich_orders" which stores various types of sandwiches, such as a veggie, grilled cheese, turkey, and roast beef. It then defines an empty list called "finished_sandwiches" which will be utilized later. It then enters a loop with the condition "while sandwich_orders" which will run until the list is empty, in which it removes the first sandwich from the list, and then prints out to the console that it is making the sandwich in question. It then finally adds the sandwich to the "finished_sandwiches" list.
+#Sure! This code defines a list called "sandwich_orders" which stores various types of sandwiches, 
+#such as a veggie, grilled cheese, turkey, and roast beef. It then defines an empty list called "finished_sandwiches" 
+#which will be utilized later. It then enters a loop with the condition "while sandwich_orders" which will run until the list is empty, 
+#in which it removes the first sandwich from the list, and then prints out to the console that it is making the sandwich in question. It 
+#then finally adds the sandwich to the "finished_sandwiches" list.

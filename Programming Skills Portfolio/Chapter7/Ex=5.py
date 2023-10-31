@@ -16,6 +16,8 @@ describe_city('santiago')
 describe_city('reykjavik', 'iceland')
 describe_city('punta arenas')
 
-#Alright, here is a function called "describe\_city". It has two required parameters, "city" and "country". In this case, "Country" is being set to Chile by default. Once this is done, it takes the "city" parameter, and concats it with "is in " and then the "country" parameter, and concats it with ". ". It then prints this message onto the console.
+#Alright, here is a function called "describe\_city". It has two required parameters, "city" and "country". In this case, 
+#"Country" is being set to Chile by default. Once this is done, it takes the "city" parameter, and concats it with "is in " 
+#and then the "country" parameter, and concats it with ". ". It then prints this message onto the console.
 
 #For example, if "santiago" and "Chile", we get "Santiago is in Chile."

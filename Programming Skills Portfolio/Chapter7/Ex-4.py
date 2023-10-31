@@ -14,4 +14,8 @@ def make_shirt(size='large', message='I love Python!'):
 make_shirt()
 make_shirt(size='medium')
 make_shirt('small', 'Programmers are loopy.')
-#Alright, so this function is basically the same thing as before, but with some changes. Here, it accepts a required argument of "size" and a required argument of "message." The function prints that it will create a large t-shirt, and then print the message provided. It then finally allows you to create shirts with various sizes, as well as various messages. If you provide no arguments, the default message of "large" and "I love Python" will be used!
+#Alright, so this function is basically the same thing as before, but with some changes.
+#Here, it accepts a required argument of "size" and a required argument of "message." 
+#The function prints that it will create a large t-shirt, and then print the message provided. 
+#It then finally allows you to create shirts with various sizes, as well as various messages. If you provide no arguments, 
+#the default message of "large" and "I love Python" will be used!

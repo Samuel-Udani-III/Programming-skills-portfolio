@@ -23,5 +23,8 @@ glossary = {
 for word, definition in glossary.items():
     print("\n" + word.title() + ": " + definition)
 
-#This code does a very similar thing to the code before, but it does so by looping through the glossary dictionary, printing every key-value pair. Here, it goes through the various key-value pairs of the dictionary, prints the key's title followed by the value, and repeats it with the next pair, all the way until every single definition has been printed in the console. This code is a good example of how you can loop through a python dictionary, and print out the key-value pairs one by one.
+#This code does a very similar thing to the code before, but it does so by looping through the glossary dictionary, 
+#printing every key-value pair. Here, it goes through the various key-value pairs of the dictionary, prints the key's title 
+#followed by the value, and repeats it with the next pair, all the way until every single definition has been printed in the console. 
+#This code is a good example of how you can loop through a python dictionary, and print out the key-value pairs one by one.
 

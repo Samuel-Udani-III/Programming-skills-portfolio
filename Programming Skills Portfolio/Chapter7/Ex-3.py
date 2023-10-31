@@ -14,4 +14,8 @@ def make_shirt(size, message):
 
 make_shirt('large', 'I love Python!')
 make_shirt(message="Readability counts.", size='medium')
-#Alright, this is another function, called "make\_shirt". It accepts two parameters, both of which are required. Size will specify the size of the shirt, and message will specify the message you wish to put on the shirt. It then prints out that it is going to make a t-shirt of the specified size, and then, it will print the message you provided. In these two examples, they say "I love Python", and "Readability counts." in the respective sizes. These values are then converted into string values, and outputted on the console.
+#Alright, this is another function, called "make\_shirt". It accepts two parameters, both of which are required. 
+#Size will specify the size of the shirt, and message will specify the message you wish to put on the shirt. 
+#It then prints out that it is going to make a t-shirt of the specified size, and then, it will print the message you provided. 
+#In these two examples, they say "I love Python", and "Readability counts." in the respective sizes. These values are then converted 
+#into string values, and outputted on the console.

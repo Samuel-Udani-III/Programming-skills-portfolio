@@ -29,4 +29,8 @@ print("\nThe following countries are included in this data set:")
 for country in rivers.values():
     print("- " + country.title())
     
-#This code is a sample of utilizing a dictionary once more! In this case, the rivers dictionary has key-value pairs that tie the names of major rivers to the countries that they flow through. The first part of the code loops through the river/country pairs, and prints the name of the river and the associated country in the dictionary. Then, the latter part of the code goes through the river keys, and prints out all of the rivers listed in the definition, and then goes through the country values, listing out what countries are involved in the data set. This is a great example how to utilize a dictionary for data storage.
+#This code is a sample of utilizing a dictionary once more! In this case, the rivers dictionary has key-value 
+#pairs that tie the names of major rivers to the countries that they flow through. The first part of the code loops through the 
+#river/country pairs, and prints the name of the river and the associated country in the dictionary. Then, the latter part of the code 
+#goes through the river keys, and prints out all of the rivers listed in the definition, and then goes through the country values, 
+#listing out what countries are involved in the data set. This is a great example how to utilize a dictionary for data storage.

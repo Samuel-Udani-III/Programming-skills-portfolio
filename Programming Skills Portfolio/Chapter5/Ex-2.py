@@ -36,4 +36,8 @@ word = 'dictionary'
 print("\n" + word.title() + ": " + glossary[word])
 
 
-#This code is an example of utilizing a dictionary in Python, which is just a collection of key-value pairs as stated above. In this case, "word" is a variable that is assigned a number of different values, namely "string, comment, list, loop, dictionary." In every case, the same code has been used: "print word.title() + glossary[word], which will print the word's title followed by the defined value in the glossary. This code is just an example of how one can use a dictionary to store information for quick reference later on.
+#This code is an example of utilizing a dictionary in Python, which is just a collection of 
+#key-value pairs as stated above. In this case, "word" is a variable that is assigned a number of different values, 
+#namely "string, comment, list, loop, dictionary." In every case, the same code has been used: "print word.title() + glossary[word], 
+#which will print the word's title followed by the defined value in the glossary. This code is just an example of how one can use a 
+#dictionary to store information for quick reference later on.

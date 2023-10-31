@@ -23,4 +23,8 @@ while True:
     else:
         print("  Your ticket is $15.")
 
-#Here, this code is utilizing a while loop again, along with an if-then-else format. The loop runs until the user enters "quit" as their age. Then, the code converts the age the user provided into an integer value before checking if it is less than or equal to a certain age. If the age provided is less than 3, the user is told that they get entry for free, if it's less than 13, the user is told that their ticket is $10, and if the age provided is 13 or greater, the user is told that their ticket is $15.
+#Here, this code is utilizing a while loop again, along with an if-then-else format. 
+#The loop runs until the user enters "quit" as their age. Then, the code converts the age the user 
+#provided into an integer value before checking if it is less than or equal to a certain age. If the age provided 
+#is less than 3, the user is told that they get entry for free, if it's less than 13, the user is told that their ticket is 
+#$10, and if the age provided is 13 or greater, the user is told that their ticket is $15.
